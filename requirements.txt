@@ -3,9 +3,4 @@ uvicorn[standard]
 sqlalchemy
 pymysql
 python-multipart
-cryptographyfastapi
-uvicorn[standard]
-sqlalchemy
-pymysql
-python-multipart
 cryptography
